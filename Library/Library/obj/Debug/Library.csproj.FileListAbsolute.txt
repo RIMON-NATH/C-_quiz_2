@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#_quiz_2\Library\Library\bin\Debug\Library.exe.config
+C:\Users\HP\Desktop\C#_quiz_2\Library\Library\bin\Debug\Library.exe
+C:\Users\HP\Desktop\C#_quiz_2\Library\Library\bin\Debug\Library.pdb
+C:\Users\HP\Desktop\C#_quiz_2\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#_quiz_2\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\HP\Desktop\C#_quiz_2\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\C#_quiz_2\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#_quiz_2\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#_quiz_2\Library\Library\obj\Debug\Library.exe
+C:\Users\HP\Desktop\C#_quiz_2\Library\Library\obj\Debug\Library.pdb
